@@ -1,5 +1,5 @@
 ```ini
-[ ayoo am zperish ]
+[ Ayoo am zPerish ]
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) 
