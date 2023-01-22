@@ -1,2 +1,2 @@
                                                                   Hi
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<643446724983259146>)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apizPerishanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
