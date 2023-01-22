@@ -10,4 +10,3 @@
 #### To contact me quickly and easily, DM me on [Discord](https://discord.com/users/643446724983259146) , [Facebook](https://www.facebook.com/pakaasitt)
 
 <a href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></img></a>
-
