@@ -3,4 +3,4 @@
 [+] hello am zPerish
 ```
 
-<a href="https://discord.com/users/643446724983259146"><img src="https://user-images.githubusercontent.com/101808402/213919913-192b54fb-12fd-4f8d-834b-4e4d6753b5d6.png"></img></a>
+<a href="https://discord.com/users/643446724983259146"><img src="https://media.discordapp.net/attachments/1066186551802986538/1066720911606161438/Untitled-modified.png?width=345&height=166"></img></a>
