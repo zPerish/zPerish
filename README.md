@@ -1,5 +1,5 @@
-```css
-[+] ayoo am zperish
+```ini
+[ ayoo am zperish ]
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) 
