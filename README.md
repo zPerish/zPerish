@@ -2,7 +2,7 @@
 [ Ayoo am zPerish ]
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&theme=dracula" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&theme=dracula" />
 
 ---
 
