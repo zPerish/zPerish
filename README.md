@@ -3,7 +3,7 @@
 
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&theme=dracula" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&theme=dark" />
 
 <a href="https://steamcommunity.com/id/-perish/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></img></a> 
 <a href="https://discord.gg/f6s8kFQKuG"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> 
