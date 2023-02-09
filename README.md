@@ -18,3 +18,4 @@
 <a href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></img></a>
 
 <p align="center"> <img src="https://count.getloli.com/get/@zperish?theme=rule34" alt="zperish" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@zperish?theme=gelbooru" alt="zperish" /> </p>
