@@ -1,6 +1,6 @@
 <h3 align="center">Ayoo! I'am zPerish</h3>
 
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause&lines=zPerish)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause&lines=zPerish)](https://git.io/typing-svg)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&icon_color=4F8CC9" /> 
 
