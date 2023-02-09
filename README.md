@@ -1,4 +1,4 @@
-<h3 align="center">Ayoo! I'am zPerish</h3>
+<h3 align="center">Ayoo! I'am [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause&lines=zPerish)](https://git.io/typing-svg)</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/643446724983259146)](https://discord.com/users/:id) <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=zPerish&hide=contribs,prs&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&icon_color=4F8CC9" /> 
 
@@ -14,5 +14,3 @@
 #### To contact me quickly and easily, DM me on [Discord](https://discord.com/users/643446724983259146) , [Facebook](https://www.facebook.com/pakaasitt) Also, I may be late or not respond..
 
 <a href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></img></a>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause&lines=zPerish)](https://git.io/typing-svg)
