@@ -18,4 +18,4 @@
 
 <h3 align="center">Profile view</h3>
 
-<p align="center"> <img src="https://count.getloli.com/get/@zperish?theme=gelbooru" alt="zperish" /> </p>
+
